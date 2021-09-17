@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.e946fd69.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.6b1cd79e.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.6b1cd79e.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.e5a7967e.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.e5a7967e.js.map",
-    "static/css/2.486ebae0.chunk.css": "/react-gh-pages/static/css/2.486ebae0.chunk.css",
-    "static/js/2.c6cdf57f.chunk.js": "/react-gh-pages/static/js/2.c6cdf57f.chunk.js",
-    "static/js/2.c6cdf57f.chunk.js.map": "/react-gh-pages/static/js/2.c6cdf57f.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.dd143c5b0f63550c260d0d2036134809.js": "/react-gh-pages/precache-manifest.dd143c5b0f63550c260d0d2036134809.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/2.486ebae0.chunk.css.map": "/react-gh-pages/static/css/2.486ebae0.chunk.css.map",
-    "static/css/main.e946fd69.chunk.css.map": "/react-gh-pages/static/css/main.e946fd69.chunk.css.map",
-    "static/js/2.c6cdf57f.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.c6cdf57f.chunk.js.LICENSE.txt"
+    "main.css": "/mqtt-app-react/static/css/main.e946fd69.chunk.css",
+    "main.js": "/mqtt-app-react/static/js/main.6b1cd79e.chunk.js",
+    "main.js.map": "/mqtt-app-react/static/js/main.6b1cd79e.chunk.js.map",
+    "runtime-main.js": "/mqtt-app-react/static/js/runtime-main.f99597b5.js",
+    "runtime-main.js.map": "/mqtt-app-react/static/js/runtime-main.f99597b5.js.map",
+    "static/css/2.486ebae0.chunk.css": "/mqtt-app-react/static/css/2.486ebae0.chunk.css",
+    "static/js/2.348888f6.chunk.js": "/mqtt-app-react/static/js/2.348888f6.chunk.js",
+    "static/js/2.348888f6.chunk.js.map": "/mqtt-app-react/static/js/2.348888f6.chunk.js.map",
+    "index.html": "/mqtt-app-react/index.html",
+    "precache-manifest.5aa7034fba079b52bab869b6cc49fdf7.js": "/mqtt-app-react/precache-manifest.5aa7034fba079b52bab869b6cc49fdf7.js",
+    "service-worker.js": "/mqtt-app-react/service-worker.js",
+    "static/css/2.486ebae0.chunk.css.map": "/mqtt-app-react/static/css/2.486ebae0.chunk.css.map",
+    "static/css/main.e946fd69.chunk.css.map": "/mqtt-app-react/static/css/main.e946fd69.chunk.css.map",
+    "static/js/2.348888f6.chunk.js.LICENSE.txt": "/mqtt-app-react/static/js/2.348888f6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e5a7967e.js",
+    "static/js/runtime-main.f99597b5.js",
     "static/css/2.486ebae0.chunk.css",
-    "static/js/2.c6cdf57f.chunk.js",
+    "static/js/2.348888f6.chunk.js",
     "static/css/main.e946fd69.chunk.css",
     "static/js/main.6b1cd79e.chunk.js"
   ]
