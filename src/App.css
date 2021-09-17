@@ -1,0 +1,140 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  background-color: #282c34;
+  min-height: 100vh;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App .ant-card {
+  width: 100%;
+  max-width: 850px;
+  margin-bottom: 20px;
+}
+
+.ant-form-inline .ant-form-item {
+  margin-bottom: 20px;
+}
+
+.flex{
+  display: flex;
+  flex-direction: column;
+  word-break: break-all;
+}
+
+.flex-row{
+  display: flex;
+}
+
+.flex-1{
+  flex: 1;
+}
+.flex-one{
+  flex: 1;
+  word-break: break-all
+}
+.flex-two{
+  flex: 2;
+}
+
+.font-weight-l{
+  font-weight: 900;
+}
+
+.max-width{
+  max-width: 90vw !important;
+}
+
+.min-height{
+  min-height: 240px;;
+}
+
+.margin-top{
+  margin-top: 90px;
+}
+
+.border{
+  border: 2px solid black;
+}
+
+.width-fix{
+  height: 40vh !important;
+}
+
+.min-width{
+  width: 29vw !important;
+}
+
+.height-fix{
+  max-width: 400px !important;
+  height: 40vh !important;
+}
+
+.icon-font{
+  font-size: 3em;
+}
+
+.grid{
+  display: grid;
+  justify-content: end;
+}
+
+.align-center{
+  align-self: center;
+  margin: 9px;
+  background-color: lightblue;
+}
+
+.borker-background-color{
+  background-color:lightblue;
+}
+
+.ant-card-head-title{
+  text-align: center;
+  font-weight: 900;
+  color: cadetblue;
+}
+
+.text-align{
+  text-align: center;
+}
+
+.content-align-center.first{
+  justify-content: center;
+  align-items: flex-start;
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.content-align-center.second{
+  justify-content: center;
+  align-items: flex-end;
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  width: 50vw;
+}
+
+.equal-width{
+  flex:1;
+  width: 28vw;
+  height: 40vw;
+  margin: 29px;
+  padding-left: 0px !important;
+  padding-top: 0px !important;
+}
+
+.background-color{
+  background-color: powderblue;
+}
+.flex-box{
+  display: flex;
+}
+
